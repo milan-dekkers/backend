@@ -1,0 +1,65 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SimpleCalculator
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //use for the string operation choice
+            int operation = 0;
+            //stock the result of the operation
+            double result = 0;
+
+            //Ask user first number
+            Console.WriteLine("Vul eerste nummer in :");
+            string stringFirstNumber = Console.ReadLine();
+            double firstNumber = Convert.ToDouble(stringFirstNumber);
+
+            //Ask user second number
+            Console.WriteLine("Vul tweede nummer in :");
+            string stringSecondNumber = Console.ReadLine();
+            double secondNumber = Convert.ToDouble(stringSecondNumber);
+
+            Console.WriteLine(" ");
+            Console.WriteLine("1ste + 2de");
+        Console.WriteLine (firstNumber + secondNumber);
+
+            Console.WriteLine(" ");
+            Console.WriteLine("1ste - 2de");
+            Console.WriteLine(firstNumber - secondNumber);
+
+            Console.WriteLine(" ");
+            Console.WriteLine("2de - 1ste");
+            Console.WriteLine(secondNumber - firstNumber);
+
+            Console.WriteLine(" ");
+            Console.WriteLine("1ste x 2de");
+            Console.WriteLine(firstNumber * secondNumber);
+
+            Console.WriteLine(" ");
+            Console.WriteLine("1ste ÷ 2de");
+            Console.WriteLine(firstNumber / secondNumber);
+
+            Console.WriteLine(" ");
+            Console.WriteLine("2de ÷ 1ste");
+            Console.WriteLine(secondNumber / firstNumber);
+
+            Console.WriteLine(" ");
+            Console.WriteLine("restant 1ste ÷ 2de");
+            Console.WriteLine(firstNumber % secondNumber);
+
+            Console.WriteLine(" ");
+            Console.WriteLine("restant 2de ÷ 1ste");
+            Console.WriteLine(secondNumber % firstNumber);
+
+            Console.WriteLine(" ");
+
+            Console.ReadKey();
+        }
+    }
+}

@@ -1,0 +1,7 @@
+D:\OneDrive\Documenten\SCHOOL\Scrum\Visual Studio\Sprint 1\Bouwstenen\Opdracht 2.4\Opdracht 2.4\bin\Debug\Opdracht 2.4.exe.config
+D:\OneDrive\Documenten\SCHOOL\Scrum\Visual Studio\Sprint 1\Bouwstenen\Opdracht 2.4\Opdracht 2.4\bin\Debug\Opdracht 2.4.exe
+D:\OneDrive\Documenten\SCHOOL\Scrum\Visual Studio\Sprint 1\Bouwstenen\Opdracht 2.4\Opdracht 2.4\bin\Debug\Opdracht 2.4.pdb
+D:\OneDrive\Documenten\SCHOOL\Scrum\Visual Studio\Sprint 1\Bouwstenen\Opdracht 2.4\Opdracht 2.4\obj\Debug\Opdracht 2.4.csprojAssemblyReference.cache
+D:\OneDrive\Documenten\SCHOOL\Scrum\Visual Studio\Sprint 1\Bouwstenen\Opdracht 2.4\Opdracht 2.4\obj\Debug\Opdracht 2.4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documenten\SCHOOL\Scrum\Visual Studio\Sprint 1\Bouwstenen\Opdracht 2.4\Opdracht 2.4\obj\Debug\Opdracht 2.4.exe
+D:\OneDrive\Documenten\SCHOOL\Scrum\Visual Studio\Sprint 1\Bouwstenen\Opdracht 2.4\Opdracht 2.4\obj\Debug\Opdracht 2.4.pdb
