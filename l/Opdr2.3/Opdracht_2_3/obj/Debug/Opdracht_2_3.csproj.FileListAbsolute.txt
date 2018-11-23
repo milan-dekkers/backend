@@ -1,0 +1,14 @@
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Persoonlijk\Syon\Opdrachten\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\Opdracht_2_3\bin\Debug\Opdracht_2_3.exe.config
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Persoonlijk\Syon\Opdrachten\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\Opdracht_2_3\bin\Debug\Opdracht_2_3.exe
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Persoonlijk\Syon\Opdrachten\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\Opdracht_2_3\bin\Debug\Opdracht_2_3.pdb
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Persoonlijk\Syon\Opdrachten\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\Opdracht_2_3\obj\Debug\Opdracht_2_3.csprojAssemblyReference.cache
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Persoonlijk\Syon\Opdrachten\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\Opdracht_2_3\obj\Debug\Opdracht_2_3.csproj.CoreCompileInputs.cache
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Persoonlijk\Syon\Opdrachten\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\Opdracht_2_3\obj\Debug\Opdracht_2_3.exe
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Persoonlijk\Syon\Opdrachten\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\Opdracht_2_3\obj\Debug\Opdracht_2_3.pdb
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Github\Gezamelijk\TheElite\Sprint 1\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\bin\Debug\Opdracht_2_3.exe.config
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Github\Gezamelijk\TheElite\Sprint 1\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\bin\Debug\Opdracht_2_3.exe
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Github\Gezamelijk\TheElite\Sprint 1\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\bin\Debug\Opdracht_2_3.pdb
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Github\Gezamelijk\TheElite\Sprint 1\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\obj\Debug\Opdracht_2_3.csprojAssemblyReference.cache
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Github\Gezamelijk\TheElite\Sprint 1\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\obj\Debug\Opdracht_2_3.csproj.CoreCompileInputs.cache
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Github\Gezamelijk\TheElite\Sprint 1\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\obj\Debug\Opdracht_2_3.exe
+C:\Users\ikben\OneDrive - ROC van Twente\School\Scrum\The elite\Github\Gezamelijk\TheElite\Sprint 1\S1-BE-M02-Bouwstenen\Opdracht_2_3\Opdracht_2_3\obj\Debug\Opdracht_2_3.pdb
